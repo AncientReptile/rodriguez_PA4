@@ -1,0 +1,6 @@
+no 5
+test 2
+yes 2
+please 1
+quit 1
+hello 4
